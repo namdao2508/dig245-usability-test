@@ -64,8 +64,9 @@
     overflow: auto;
 }
 
-.separate{
-    margin-bottom: 2rem;
+.yellowIt input{
+    color: rgb(10,00,148);
+    background-color: rgb(255, 200, 54);
 }
 
 @media (max-width: 330px){
